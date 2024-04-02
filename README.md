@@ -6,7 +6,7 @@ CaptionCraft is a Machine Learning based Web App that allows the user to quickly
 * Python
 * BootStrap, EJS
 
-### Use this link to access: https://captioncraft.azurewebsites.net/
+### Use this link to access: [https://captioncraft.azurewebsites.net/](https://captioncraft.azurewebsites.net/)
 
 ### Functionalities
 * User Photo Upload - Through this the user can either upload an Image from his machine.
